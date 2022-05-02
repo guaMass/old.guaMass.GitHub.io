@@ -7,10 +7,8 @@ I am passionate about Computer Science and the mathematical principles behind it
 + I received the B.Eng(ECE) degree from Harbin Institute of Techology in 2019.
 + Please see my [CV](main.pdf).
 
-### Projects
+### Human Motion Behavior Detector
 
-#### Human Motion Behavior Detector
+### Robot Master Competition
 
-#### Robot Master Competition
-
-#### ALWAYS Cup 2017 Formula Student Autonomous
+### ALWAYS Cup 2017 Formula Student Autonomous
